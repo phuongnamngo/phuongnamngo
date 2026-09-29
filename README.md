@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=210&section=header&text=Ngo%20Phuong%20Nam&fontSize=42&fontAlignY=32&animation=fadeIn&fontColor=ffffff&desc=Full-Stack%20Developer%20%C2%B7%20Ho%20Chi%20Minh%20City&descAlignY=56&descSize=18" width="100%" alt="Header"/>
+<img src="assets/sakura-header.gif" width="100%" alt="Ngo Phuong Nam"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=900&color=2563EB&center=true&vCenter=true&width=720&height=50&lines=React+%C2%B7+Next.js+%C2%B7+React+Native;Laravel+%C2%B7+Node.js+%C2%B7+PostgreSQL;Open+to+full-stack+roles" alt="Typing intro"/>
 
@@ -32,9 +32,3 @@ Open to full-stack roles.
 | [blog-personal](https://github.com/phuongnamngo/blog-personal) | Personal blog | JavaScript |
 
 Production work (client code stays private): Bitgert Exchange on Google Play (100K+ downloads), Zogux Exchange, Fliam, Care For Vietnam.
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=120&section=footer" width="100%" alt="Footer"/>
-
-</div>
