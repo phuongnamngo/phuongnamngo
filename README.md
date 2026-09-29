@@ -1,16 +1,24 @@
-## Hi there 👋
+# Ngo Phuong Nam
 
-<!--
-**phuongnamngo/phuongnamngo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Developer in Ho Chi Minh City. 4+ years shipping web and mobile products with React, Next.js, TypeScript, React Native, Laravel, and Node.js.
 
-Here are some ideas to get you started:
+Open to full-stack roles.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Portfolio: https://portfolio-profile-sepia.vercel.app
+- LinkedIn: https://linkedin.com/in/ngo-phuong-nam-660a29268
+- Email: ngophuongnam5622@gmail.com
+
+## Stack
+
+TypeScript, JavaScript, React, Next.js, React Native, PHP, Laravel, Node.js, PostgreSQL, MySQL, Docker, Git
+
+## Selected work
+
+| Project | What it shows | Stack |
+|---|---|---|
+| [shop-ecommerce](https://github.com/phuongnamngo/shop-ecommerce) | Storefront + admin: catalog, cart, orders, VNPay | Next.js, Laravel, PostgreSQL, Docker |
+| [portfolio-profile](https://portfolio-profile-sepia.vercel.app) | Personal site, live on Vercel | Next.js, TypeScript |
+| [webapp-booking](https://github.com/phuongnamngo/webapp-booking) | Desk, seat, and room booking | Next.js, Go, PostgreSQL |
+| [blog-personal](https://github.com/phuongnamngo/blog-personal) | Personal blog | JavaScript |
+
+Production work (client code stays private): Bitgert Exchange on Google Play (100K+ downloads), Zogux Exchange, Fliam, Care For Vietnam.
