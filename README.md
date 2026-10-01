@@ -26,6 +26,7 @@ Open to full-stack roles.
 
 | Project | What it shows | Stack |
 |---|---|---|
+| [cinema-booking](https://github.com/phuongnamngo/cinema-booking) | Cinema tickets: realtime seat hold, checkout, QR check-in | Django, Channels, Celery, React, TypeScript, Tailwind, PostgreSQL, Redis |
 | [shop-ecommerce](https://github.com/phuongnamngo/shop-ecommerce) | Storefront + admin: catalog, cart, orders, VNPay | Next.js, Laravel, PostgreSQL, Docker |
 | [portfolio-profile](https://portfolio-profile-sepia.vercel.app) | Personal site, live on Vercel | Next.js, TypeScript |
 | [webapp-booking](https://github.com/phuongnamngo/webapp-booking) | Desk, seat, and room booking | Next.js, Go, PostgreSQL |
