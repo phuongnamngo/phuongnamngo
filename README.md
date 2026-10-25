@@ -26,6 +26,7 @@ Open to full-stack roles.
 
 | Project | What it shows | Stack |
 |---|---|---|
+| [booking-saas](https://github.com/phuongnamngo/booking-saas) | Multi-tenant spa booking: guest checkout, staff desk, Stripe, reports | Laravel, React, TypeScript, MySQL, Redis, Docker |
 | [cinema-booking](https://github.com/phuongnamngo/cinema-booking) | Cinema tickets: realtime seat hold, checkout, QR check-in | Django, Channels, Celery, React, TypeScript, Tailwind, PostgreSQL, Redis |
 | [shop-ecommerce](https://github.com/phuongnamngo/shop-ecommerce) | Storefront + admin: catalog, cart, orders, VNPay | Next.js, Laravel, PostgreSQL, Docker |
 | [blog-personal](https://github.com/phuongnamngo/blog-personal) | Personal dev blog | Django, React, Tailwind CSS |
